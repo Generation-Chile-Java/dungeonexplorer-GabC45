@@ -1,1 +1,5 @@
-Hola, tengo 2 versiones, utilicen la segunda por favor.
+
+Hola, tengo dos versiones del proyecto. Por favor, utilicen la segunda.
+
+Es posible que realice algunos cambios durante el fin de semana, si eso ocurre, subiré una tercera versión.
+Si ven esto después de que suba la tercera version, les pido que, si es posible, revisen la tercera versión para la calificación de la tarea, si este cambio llegara a generar algún conflicto con la evaluación de la tarea, utilicen la segunda versión, que fue entregada en el plazo correspondiente.
