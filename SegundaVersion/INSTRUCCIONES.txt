@@ -1,0 +1,30 @@
+==============================
+   Dungeon Explorer - Java
+==============================
+
+🕹️ DESCRIPCIÓN:
+Juego de exploración de mazmorras en consola, con 15 salas que pueden contener enemigos, tesoros o estar vacías. Tu objetivo es explorar todas las salas sin morir.
+
+🎯 CÓMO JUGAR:
+- Elige tu nombre al comenzar.
+- Se te mostrará una lista de salas disponibles (del 1 al 15).
+- Ingresa el número de la sala que deseas visitar.
+- Cada sala puede tener un evento: enemigo, tesoro o estar vacía.
+- Tu estado (salud e inventario) se muestra después de cada sala.
+
+🧠 CONDICIONES DE VICTORIA:
+- Ganas si exploras las 15 salas sin perder todos tus puntos de vida.
+- Pierdes si tu salud llega a 0.
+
+==============================
+🔧 INSTRUCCIONES DE USO
+==============================
+
+1. Abre una terminal desde VScode y navega a la carpeta del proyecto:
+   > cd SegundaVersion/
+
+2. Ejecuta el juego:
+   > java dungeon.Game
+
+El juego comenzará en la consola.
+
